@@ -1,6 +1,6 @@
 ---
 title: "Jing-Zhang Knowledge Station: A Verifiable AI-Native Innovation Belt"
-author_github: "Debin"
+author_github: "luodeb"
 language: "en"
 proposal_format_version: "2"
 bilingual_contract_version: "1"

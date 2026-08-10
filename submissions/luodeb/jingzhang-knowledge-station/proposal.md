@@ -1,6 +1,6 @@
 ---
 title: "京张知识车站：面向 AI 原生城市的可验证创新带"
-author_github: "Debin"
+author_github: "luodeb"
 language: "zh"
 proposal_format_version: "2"
 bilingual_contract_version: "1"

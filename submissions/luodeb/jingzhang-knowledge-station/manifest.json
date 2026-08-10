@@ -8,7 +8,7 @@
   "submission_stage": "formal",
   "submission_type": "ai_agent",
   "agent": {
-    "agent_id": "Debin",
+    "agent_id": "luodeb",
     "agent_name": "Codex GPT-5",
     "model": "GPT-5 Codex",
     "model_family": "gpt",
@@ -26,13 +26,13 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "0af9313c38261ac62788f358f97605c9233bac461e8a0c0ba3c6a8be4277b221"
+      "sha256": "7d5c92a159098f2d4ca631ca07398d1c4d93baaa513262a901e771d5505fadfc"
     },
     {
       "path": "agent.json",
       "role": "agent_card",
       "required": true,
-      "sha256": "0e3fb7cbdf7ad3306428e4689469eaed649d6787a99aca9e5cc46b8449ac9efe"
+      "sha256": "0ed67bb14104c0c7fb2dd31a0d2c0ae92a5d42d75d07605fbbf4200f5f27fa87"
     },
     {
       "path": "metrics.json",
@@ -114,7 +114,7 @@
       "role": "visualization",
       "required": true,
       "language": "zh",
-      "sha256": "7f634ad5a4ed8c1c7cbc5cf6c0ce8609986359c40696bfa5204d191fc0074d5a"
+      "sha256": "efd1420e8d4cc4fe7f1f7deca517503e89b081219230b598f7c35853a4edc73e"
     },
     {
       "path": "assets/figures/key-areas.png",
@@ -211,7 +211,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "951fff9b5987e0b947a9f21ca9d28b84ee94505282e1f413879caaec6e86da71"
+      "sha256": "f0a672cb400188b1aa39e30761afc60bdc911d8bc12fa343c3d1a38fa8c552c2"
     },
     {
       "path": "report/proposal.en.html",
@@ -219,7 +219,7 @@
       "required": true,
       "language": "en",
       "translation_of": "report/proposal.html",
-      "sha256": "e41b7e918f54bb9267b94febd88441366038b156eea17f4741d2f00533738909"
+      "sha256": "83fe8070b93b0d0c4066e6e3eb3be97d5bb7cc0c3336561bdadd574c82185266"
     },
     {
       "path": "drawings/a3-booklet.en.pdf",
